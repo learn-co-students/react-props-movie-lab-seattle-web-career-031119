@@ -39,7 +39,7 @@ const movieData = [
   {
     title: "Maru's Spinoff: Trapped in the Sheets",
     IMDBRating: 5,
-    genres: ['Adventure'],
+    genres: null,
     poster: 'marus-spinoff'
   },
   {
